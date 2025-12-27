@@ -6,7 +6,7 @@ I am a **Data Scientist** (and an emergency Data Engineer) passionate about leve
 
 <a href="https://github.com/jstrieb/github-stats"><img src="https://raw.githubusercontent.com/linusgun/myGitStats/master/generated/overview.svg#gh-dark-mode-only" /></a>
 
-<a href="https://github.com/jstrieb/github-stats"><img src="https://raw.githubusercontent.com/linusgun/myGitStats/tree/master/generated/languages.svg#gh-dark-mode-only" /></a>
+<a href="https://github.com/jstrieb/github-stats"><img src="https://raw.githubusercontent.com/linusgun/myGitStats/master/generated/languages.svg#gh-dark-mode-only" /></a>
 
 ---
 
