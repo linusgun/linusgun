@@ -1,8 +1,12 @@
-# David Yabar
+# About me
 
 I am a **Data Scientist** (and an emergency Data Engineer) passionate about leveraging **statistical methods** and **computer science** to drive innovation.
 
  hold a Master’s degree in Data Science and an MBA, and I have had the privilege of working across diverse industrial sectors, including mining, machinery, agriculture, forestry <img src="https://flagcdn.com/pe.svg" width="20" height="15" /> and currently healthcare <img src="https://flagcdn.com/ca.svg" width="25" height="25" />.
+
+<a href="https://github.com/jstrieb/github-stats"><img src="https://raw.githubusercontent.com/linusgun/github-stats/master/generated/overview.svg#gh-dark-mode-only" /></a>
+
+<a href="https://github.com/jstrieb/github-stats"><img src="https://raw.githubusercontent.com/linusgun/github-stats/master/generated/languages.svg#gh-dark-mode-only" /></a>
 
 ---
 
@@ -18,13 +22,15 @@ As side projects, I collaborate with companies and start-ups as consultant, belo
 
 ### Finished
 
-- [Ardea Outcomes](https://www.ardeaoutcomes.com/): 
+#### 2025
 
-  **2025**
+- [Ardea Outcomes](https://www.ardeaoutcomes.com/): 
 
   - Conduct an analysis of the existing data pipeline in R, and subsequently translate and improve it into Python for deployment on AWS. Main libraries used: Polars, Pandas, Point blank and Openpyxl.
   
   - Principal statistician for the statistical analysis of efficacy for **INmune Bio's alzheimer drug, XPro,** within a randomized control trial. Article about the results [here](https://www.reuters.com/business/healthcare-pharmaceuticals/inmune-bios-alzheimers-drug-fails-meet-main-goal-mid-stage-study-2025-06-30/).
+
+#### Before
 
 - [Telecabinas Kuelap](http://www.telecabinaskuelap.com/es/): 
 
