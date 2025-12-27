@@ -23,7 +23,7 @@ I am a **Data Scientist** (and an emergency Data Engineer) passionate about leve
 
 ## Consulting work
 
-As side projects, I collaborate with companies and start-ups as consultant, below some of these projects:
+As side projects, I collaborate with companies and start-ups as consultant, below some of these projects. I welcome project inquiries — reach out to me on [LinkedIn]((https://www.linkedin.com/in/david-yabar-25543071/) to discuss further.
 
 ### On going
 
