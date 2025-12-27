@@ -6,14 +6,14 @@ I am a **Data Scientist** (and an emergency Data Engineer) passionate about leve
 
 
 
-<table>
+<table style="border: none;">
   <tr>
     <td align="center">
       <a href="https://github.com/jstrieb/github-stats"><img src="https://raw.githubusercontent.com/linusgun/myGitStats/master/generated/overview.svg#gh-dark-mode-only" /></a>
     </td>
     <td align="center">
-      https://github.com/jstrieb/github-stats
-        https://raw.githubusercontent.com/linusgun/myGitStats/master/generated/languages.svg#gh-dark-mode-only
+      <a href="https://github.com/jstrieb/github-stats">
+        <img src="https://raw.githubusercontent.com/linusgun/myGitStats/master/generated/languages.svg#gh-dark-mode-only" />
       </a>
     </td>
   </tr>
