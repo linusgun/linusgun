@@ -4,9 +4,9 @@ I am a **Data Scientist** (and an emergency Data Engineer) passionate about leve
 
  hold a Master’s degree in Data Science and an MBA, and I have had the privilege of working across diverse industrial sectors, including mining, machinery, agriculture, forestry <img src="https://flagcdn.com/pe.svg" width="20" height="15" /> and currently healthcare <img src="https://flagcdn.com/ca.svg" width="25" height="25" />.
 
-<a href="https://github.com/jstrieb/github-stats"><img src="https://raw.githubusercontent.com/linusgun/github-stats/master/generated/overview.svg#gh-dark-mode-only" /></a>
+<a href="https://github.com/jstrieb/github-stats"><img src="https://raw.githubusercontent.com/linusgun/myGitStats/master/generated/overview.svg#gh-dark-mode-only" /></a>
 
-<a href="https://github.com/jstrieb/github-stats"><img src="https://raw.githubusercontent.com/linusgun/github-stats/master/generated/languages.svg#gh-dark-mode-only" /></a>
+<a href="https://github.com/jstrieb/github-stats"><img src="https://raw.githubusercontent.com/linusgun/myGitStats/tree/master/generated/languages.svg#gh-dark-mode-only" /></a>
 
 ---
 
