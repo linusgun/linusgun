@@ -2,7 +2,7 @@
 
 I am a **Data Scientist** (and an emergency Data Engineer) passionate about leveraging **statistical methods** and **computer science** to drive innovation.
 
- hold a Master’s degree in Data Science and an MBA, and I have had the privilege of working across diverse industrial sectors, including mining, machinery, agriculture, forestry <img src="https://flagcdn.com/pe.svg" width="20" height="15" /> and currently healthcare <img src="https://flagcdn.com/ca.svg" width="25" height="25" />.
+I hold a Master’s degree in Data Science and an MBA, and I have had the privilege of working across diverse industrial sectors, including mining, machinery, agriculture, forestry <img src="https://flagcdn.com/pe.svg" width="20" height="15" /> and currently healthcare <img src="https://flagcdn.com/ca.svg" width="25" height="25" />.
 
 
 
